@@ -41,6 +41,8 @@ Here some sample of image detection using YoloV3
 ![image_object_detection](https://github.com/PrashantC-9895/YoloV3/assets/143035523/7d232b81-aae4-4c24-8d84-49f2b06fdfec)
 ![Screenshot 2024-02-21 095555](https://github.com/PrashantC-9895/YoloV3/assets/143035523/813df5f6-0cb4-452f-af83-6b1b7d46430e)
 
-
+some sample of object detection of videos. So , I am sharing some screenshots of videos here for understanding,
+![video-ss-1](https://github.com/PrashantC-9895/YoloV3/assets/143035523/c5321bec-4fc4-47ec-9245-569678a559e3)
+![video-ss](https://github.com/PrashantC-9895/YoloV3/assets/143035523/1b891c20-49c0-4fe2-8ac5-ff7d92898a07)
 
 
